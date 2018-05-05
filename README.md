@@ -1,5 +1,7 @@
 # Introducción a Flask
 
+https://github.com/categulario/curso_flask
+
 Repositorio creado para el taller de Flask en la FEI el 5 de mayo del 2018
 
 ## ¿Por qué fĺask?
@@ -12,6 +14,7 @@ Repositorio creado para el taller de Flask en la FEI el 5 de mayo del 2018
 * si quieres gran flexibilidad en un proyecto
 * si quieres el poder de un framework sin la complicación de todas sus posibles
   herramientas
+* Como backend para una Single Page Application o para una aplicación movil
 
 ## ¿Qué cosas cool has hecho con flask?
 
